@@ -20,7 +20,7 @@ author: PIXEL
 ###############################################
 
 navbar-links:
-  About Pixel: "aboutpixel"
+  About Pixel: "about"
   Resources:
     - NFT: ""
     - What is Kaspa: ""
