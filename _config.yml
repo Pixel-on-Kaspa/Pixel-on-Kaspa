@@ -10,18 +10,20 @@
 ############################
 
 # Name of website
-title: "Pixel-on-Kaspa"
+title: Pixel on Kaspa
 
 # Your name to show in the footer
-author: "PIXEL"
+author: PIXEL
 
 ###############################################
 # --- List of links in the navigation bar --- #
 ###############################################
 
 navbar-links:
-  About Pixel: "aboutme"
+  About Pixel: "aboutpixel"
   Resources:
+    - NFT: ""
+    - What is Kaspa: ""
 
 ################
 # --- Logo --- #
@@ -29,7 +31,7 @@ navbar-links:
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/assets/img/avatar-icon.jpg"
+avatar: "/assets/img/avatar-icon.png"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: false
@@ -62,7 +64,7 @@ social-network-links:
 #  steam: deanat78
 #  twitch: yourname
 #  yelp: yourname
- telegram: "t.me/+Ro2t1MjZunIxM2M8"
+#  telegram: yourname
 #  calendly: yourname
 #  mastodon: instance.url/@username
 #  bluesky: yourname
@@ -92,7 +94,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "Pixel-on-Kaspa.fyi"
+url-pretty: "MyWebsite.com"
 
 # Add the website title to the title of every page
 title-on-all-pages: true
@@ -104,7 +106,7 @@ excerpt_length: 50
 feed_show_excerpt: true
 
 # Whether or not to show a list of tags below each post preview in the feed page
-feed_show_tags: false
+feed_show_tags: true
 
 # Add a search button to the navbar
 post_search: false
@@ -118,7 +120,7 @@ edit_page_button: true
 navbar-var-length: false
 
 # The keywords to associate with your website, for SEO purposes
-#keywords: "pixel,kaspa,nft"
+#keywords: "my,list,of,keywords"
 
 ######################################
 # --- Colours / background image --- #
@@ -292,4 +294,3 @@ plugins:
 
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
-
