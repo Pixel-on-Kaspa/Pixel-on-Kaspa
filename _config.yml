@@ -20,7 +20,7 @@ author: PIXEL
 ###############################################
 
 navbar-links:
-  About Pixel: "aboutpixel"
+  About Pixel: "aboutme"
   Resources:
     - NFT: ""
     - What is Kaspa: ""
@@ -94,7 +94,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+url-pretty: "Pixel-on-Kaspa.fyi"
 
 # Add the website title to the title of every page
 title-on-all-pages: true
@@ -106,7 +106,7 @@ excerpt_length: 50
 feed_show_excerpt: true
 
 # Whether or not to show a list of tags below each post preview in the feed page
-feed_show_tags: true
+feed_show_tags: false
 
 # Add a search button to the navbar
 post_search: false
@@ -120,7 +120,7 @@ edit_page_button: true
 navbar-var-length: false
 
 # The keywords to associate with your website, for SEO purposes
-#keywords: "my,list,of,keywords"
+#keywords: "pixel,kaspa,nft"
 
 ######################################
 # --- Colours / background image --- #
