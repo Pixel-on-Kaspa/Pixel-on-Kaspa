@@ -1,6 +1,7 @@
 ---
 title: Exciting News - NFT Collection Launch Preparations Underway!
 layout: post
+cover-img: /assets/img/2025-01-23-nft-prep-cover.jpg
 ---
 We’re thrilled to announce that preparations for the release of our NFT collection are in full swing! This upcoming collection will be a celebration of creativity, innovation, and the boundless possibilities of digital art.
 
