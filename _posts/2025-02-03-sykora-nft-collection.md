@@ -15,7 +15,8 @@ is an organism, formed by synergy of artists, scientists, inventors and technolo
 
 V E K T R O S K O P
 is a collective of talented individuals who thrive on challenges, combining traditional techniques with unconventional methods and mediums in their work. 
-[Instagram] (https://www.instagram.com/v_e_k_t_r_o_s_k_o_p/)
+
+<https://www.instagram.com/v_e_k_t_r_o_s_k_o_p/>
 
 ### Image content generation technology
 ![Image content generation technology](/assets/img/sykora-nft-collection-image-generation.jpg)
@@ -26,6 +27,7 @@ The Image Material was generated through a unique technological process involvin
 NFT Collection is based on David Vrbik's research for the installation Tiling the ventilation chimneys of the Letenský Tunnel in Prague. Inspired by the pioneering work of Zdeněk Sýkora.
 
 ![Zdeněk Sýkora](/assets/img/sykora-nft-collection-zdenek-sykora.jpg)
+
 Zdeněk Sýkora was a pioneering artist who was among the first to harness the potential of computer technology in the creation of art. He set a precedent for subsequent generations of artists. His artistic journey saw a transition from landscape painting to abstraction, and in 1964, he collaborated with mathematician Jaroslav Blažek to produce the inaugural computer-generated programmed structures. By 1973, Sýkora had developed an innovative system centered around randomness, which laid the groundwork for his distinctive line paintings. 
 
 Sýkora's work was showcased at numerous international exhibitions focusing on constructive art, and his pieces are held in both international and Czech collections. One of his renowned works, "Line No. 24," was integrated into the permanent collection of the Centre Pompidou in Paris in 2007. Zdeněk Sýkora passed away in Louny in 2011.
