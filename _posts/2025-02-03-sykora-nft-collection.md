@@ -6,17 +6,15 @@ thumbnail-img: /assets/img/sykora-nft-collection-thumb.jpg
 ---
 ### Pixel on Kaspa introduces
 ## Vektroskop
-![Vektroskop logo](/assets/img/sykora-nft-collection-vektroskop-logo.jpeg)
+![Sykora NFT Collection Vektroskop logo](/assets/img/sykora-nft-collection-vektroskop-logo.jpeg)
 
 ## Sykora NFT Collection
 
 V E K T R O S K O P
 is an organism, formed by synergy of artists, scientists, inventors and technology.
 
-V E K T R O S K O P
+[V E K T R O S K O P](https://www.instagram.com/v_e_k_t_r_o_s_k_o_p/)
 is a collective of talented individuals who thrive on challenges, combining traditional techniques with unconventional methods and mediums in their work. 
-
-<https://www.instagram.com/v_e_k_t_r_o_s_k_o_p/>
 
 ### Image content generation technology
 ![Image content generation technology](/assets/img/sykora-nft-collection-image-generation.jpg)
