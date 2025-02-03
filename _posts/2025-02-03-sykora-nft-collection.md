@@ -6,7 +6,7 @@ thumbnail-img: /assets/img/sykora-nft-collection-thumb.jpg
 ---
 ### Pixel on Kaspa introduces
 ## Vektroskop
-![Vektroskop logo](/assets/img/sykora-nft-collection-vektroskop-logo.jpg)
+![Vektroskop logo](/assets/img/sykora-nft-collection-vektroskop-logo.jpeg)
 
 ## Sykora NFT Collection
 
